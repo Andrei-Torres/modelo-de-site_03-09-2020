@@ -19,8 +19,12 @@ section {
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.466);
 }
 
+div{
+    height: 200px;
+}
+
 footer {
-    color: rgb(255, 255, 255);
+    color: rgb(107, 102, 102);
     text-align: center;
     font-style: italic;
 }
@@ -31,5 +35,4 @@ footer > p {
     width: 120px;
     height: auto;
     border-radius: 2px;
-    box-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.24);
 }
